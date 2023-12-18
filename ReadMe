@@ -1,3 +1,8 @@
-This is a team project focusing using SQL and Tableau to investigate an E-commerce business. 
+This is a team project focusing on using SQL and Tableau to investigate an E-commerce business's data ranging from 2019 to 2023.  
+The global E-commerce business data is generated and retrieved from Google Looker. 
 
-Contributors: Eric Bai, Yahui Wen, Mengxin Zhao, Fahad Alsubaie, Shailoz Kumar Singh, Jessica Tong
+My five teammates and I separated the original seven tables into 'Marketing', 'Product',and 'Product' departments.
+From there, we listed out five questions for each department, attempting to discover more about this E-commerce business. 
+
+A tableau dashboard was made to further visualize the departmental discoveries. To see more of the notebook, please click on the ipynb file. 
+To see more of the dashboard, please click [here](https://public.tableau.com/app/profile/jessica.tong1527/viz/BA775_team_assignment_version2_17020855878190/Product_Marketing_Dashboard)
