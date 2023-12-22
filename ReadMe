@@ -1,7 +1,0 @@
-This is a team project focusing on using SQL and Tableau to investigate an E-commerce business's data ranging from 2019 to 2023.  
-The global E-commerce business data is generated and retrieved from Google Looker. 
-
-My five teammates and I separated the original seven tables into 'Marketing', 'Product',and 'Product' departments.
-From there, we listed out five questions for each department, attempting to discover more about this E-commerce business. 
-
-A tableau dashboard was made to further visualize the departmental discoveries. To see more of the notebook, please click on the ipynb file. 
